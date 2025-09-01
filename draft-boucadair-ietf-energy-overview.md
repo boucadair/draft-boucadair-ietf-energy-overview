@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: ""
+workgroup: "IETF"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "IETF"
+  type: "Internet Engineering Task Force"
+  mail: ""
+  arch: ""
+  github: "boucadair/draft-boucadair-ietf-energy-overview"
+  latest: "https://boucadair.github.io/draft-boucadair-ietf-energy-overview/draft-boucadair-ietf-energy-overview.html"
 
 author:
  -
@@ -69,7 +69,7 @@ TODO Abstract
    challenges, for networking technology in general and management
    technology in particular to become "greener", i.e., more sustainable,
    with reduced greenhouse gas emissions and less negative impact on the
-   environment. 
+   environment.
 
 
 # OPSAWG
